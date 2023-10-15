@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dokument</title>
+</head>
+<body>
+    <h2> Nova mazda</h2>
+    <h3>Kreirana za vozace </h3>
+    <h1 style="color:rgb(96, 100, 100);"> Mazda 3 sedan</h1>
+    <hr>
+    <p> <b> <i>VAŠ ELEGANTAN SUPUTNIK U VOŽ­NJI </i> </b> </p>
+
+    <a href="https://www.mazda.hr/modeli/mazda3-sedan/#"> Klikni za konfiguraciju</a>
+    <img src="mazda3.avif" height="400" width="600" alt="Mazda 3 sedan" title="mazda 3 sedan">
+    <p> Klasična i profinjena Mazda3 Sedan ističe se više od ostalih sa svojim jedinstvenim linijama </p>
+    <p style="color: rgb(210, 182, 236);"> <strong>Ovo je ljubicasti paragraf</strong> </p>
+    <p style="font-size: 150%;">Mazda je <mark>luksuzni</mark> automobil</p>
+
+
+</body>
+</html>
